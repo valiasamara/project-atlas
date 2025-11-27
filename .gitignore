@@ -1,29 +1,16 @@
-# Flutter & Dart
-build/
-.dart_tool/
-.packages
+# Python
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+**/.mypy_cache/
+**/.pytest_cache/
 
-# Android
-android/.gradle/
-android/app/build/
+# Databases
+**/*.db
+**/*.sqlite3
 
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/App.framework
-ios/Flutter/Flutter.framework
-
-# IDE junk
-.vscode/
-.idea/
-*.iml
-
-# Binaries
-*.apk
-*.aab
-*.jar
-*.keystore
-
-# Archives
-*.zip
-*.rar
+# Logs
+**/*.log
+app-backend/static/images/*

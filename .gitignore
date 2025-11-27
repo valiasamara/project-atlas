@@ -1,0 +1,29 @@
+# Flutter & Dart
+build/
+.dart_tool/
+.packages
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# IDE junk
+.vscode/
+.idea/
+*.iml
+
+# Binaries
+*.apk
+*.aab
+*.jar
+*.keystore
+
+# Archives
+*.zip
+*.rar

@@ -32,7 +32,7 @@ def search():
     #  Convert file paths to URLs
     def convert_path(path):
         filename = os.path.basename(str(path))
-        return f"  http://10.136.207.62:5000/images/{filename}"
+        return f" http://192.168.2.4:5000/images/{filename}"
     results = results.copy()
     results['Image Path'] = results['Image Path'].apply(convert_path)
 

@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"my-atlas-app","appId":"1:803650655654:android:daaa7b5107cf9c32162b67","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"my-atlas-app","configurations":{"android":"1:803650655654:android:daaa7b5107cf9c32162b67","web":"1:803650655654:web:c4f510765c2eb6c5162b67"}}}}}}
